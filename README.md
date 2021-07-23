@@ -1,4 +1,4 @@
-## Birthday-Remainder
+## Birthday Reminder
 
 A simple starte React project.
 
