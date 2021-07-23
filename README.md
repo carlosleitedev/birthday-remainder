@@ -1,5 +1,3 @@
-
-
 ## Birthday-Remainder
 
 #### Example:
@@ -18,6 +16,8 @@ This project is currently in development. Users can filter tweets by username an
 #### Example:   
 
 ![screen](https://user-images.githubusercontent.com/69091748/126733224-45fed9b4-2bc8-4964-87c6-4496d38493b0.png)
+
+![Reminder-Setup-Google-Chrome-2021-07-23-00-13-03](https://user-images.githubusercontent.com/69091748/126734041-c70b76c4-17c7-4005-a056-9e2a56da4c46.gif)
 
 
 ## Installation and Setup Instructions
