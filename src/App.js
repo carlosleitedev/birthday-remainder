@@ -1,8 +1,19 @@
 import React, { useState } from 'react';
 import data from './data';
 import List from './List';
+
 function App() {
-  return <h2>reminder project setup</h2>;
+	const [contacts, setContacts] = useState(data);
+
+	return (
+		<main>
+			<section className="container">
+				<h3>{contacts.length} birthdays today</h3>
+				<List contacts={contacts} />
+				<button onClick={() => setContacts([])}>clear</button>
+			</section>
+		</main>
+	);
 }
 
 export default App;
