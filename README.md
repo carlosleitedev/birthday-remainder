@@ -1,3 +1,4 @@
+
 ## Birthday-Remainder
 
 #### Example:
@@ -15,7 +16,7 @@ This project is currently in development. Users can filter tweets by username an
 
 #### Example:   
 
-[ PRETEND SCREEN SHOT IS HERE ]
+![screen](https://user-images.githubusercontent.com/69091748/126733224-45fed9b4-2bc8-4964-87c6-4496d38493b0.png)
 
 [ PRETEND OTHER SCREEN SHOT IS HERE ]
 
