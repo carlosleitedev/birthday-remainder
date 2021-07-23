@@ -10,7 +10,7 @@ function App() {
 			<section className="container">
 				<h3>{contacts.length} birthdays today</h3>
 				<List contacts={contacts} />
-				<button onClick={() => setContacts([])}>clear</button>
+				<button onClick={() => setContacts([])}>clear All</button>
 			</section>
 		</main>
 	);
