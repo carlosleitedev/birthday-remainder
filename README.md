@@ -1,6 +1,6 @@
 ## Birthday Reminder
 
-A simple starte React project.
+A simple starter React project.
 
 This project was inspired by [React Tutorial an Projects Course] (https://react-projects-1-birthday-reminder.netlify.app/). 
 
